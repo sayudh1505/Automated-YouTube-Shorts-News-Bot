@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Configuration
+.env
+
+# Generated/Run Outputs
+audio/
+captions/
+logs/
+output/
+video/
+scripts/script.json
+scripts/script.txt
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
